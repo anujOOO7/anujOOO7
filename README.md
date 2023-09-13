@@ -29,9 +29,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=anujOOO7&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Anuj's github stats" width="48%" >
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujOOO7&theme=github_dark&hide_border=true" alt="Anuj's github streak" width="48%" >
-
 
 
 ---
